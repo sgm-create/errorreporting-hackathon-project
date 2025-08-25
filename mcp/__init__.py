@@ -1,0 +1,1 @@
+# MCP modules for UK Retail Intelligence Engine\n
